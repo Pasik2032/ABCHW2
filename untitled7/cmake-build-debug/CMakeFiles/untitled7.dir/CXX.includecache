@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pasik/CLionProjects/untitled7/bush.cpp
+bush.h
+/Users/pasik/CLionProjects/untitled7/bush.h
+iostream
+-
+
+/Users/pasik/CLionProjects/untitled7/bush.h
+plants.h
+/Users/pasik/CLionProjects/untitled7/plants.h
+rnd.h
+/Users/pasik/CLionProjects/untitled7/rnd.h
+fstream
+-
+
+/Users/pasik/CLionProjects/untitled7/plants.h
+string.h
+/Users/pasik/CLionProjects/untitled7/string.h
+fstream
+-
+
+/Users/pasik/CLionProjects/untitled7/rnd.h
+cstdlib
+-
+
